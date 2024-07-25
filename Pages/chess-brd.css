@@ -1,0 +1,47 @@
+
+
+h1
+{
+    color: white;
+    background-color: rgb(52, 58, 68);
+    width: 550px;
+    line-height: 50px;
+    border-radius:10px;
+    font-family: sans-serif;
+    box-shadow: 10px 10px 10px rgb(70, 70, 70);
+}
+
+table
+{
+    box-shadow: 10px 10px 10px rgb(70, 70, 70);
+
+}
+
+td
+{
+    text-align: center;
+    text-shadow: 2px 1px white;
+    font-size: 50px;
+    width: 60px;
+    height: 60px;
+    background-color: white;
+
+}
+
+table
+{
+    border-width: 10px;
+}
+
+.category1
+{
+    background-color: white ;
+}
+
+.category2
+{
+    background-color: rgb(76, 59, 59) ;
+}
+
+
+

@@ -1,0 +1,78 @@
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200;
+}
+
+div {
+    position: absolute;
+    top: 75px;
+    left: 270px;
+   
+}
+
+#registration
+{
+    text-decoration: underline;
+    height: 50px;
+    width: 650px;
+    color: rgb(rgba(37, 96, 66, 0.715)) ;
+    
+    padding: 0%;
+    margin: 0%;
+}
+
+table
+{
+    
+    border-color: black;
+
+    text-align: center;
+}
+
+.gender
+{
+   width: 50px;
+    height: 3px;
+}
+
+#clear
+{
+    width: 70px;
+    height: 30px;
+    text-align: center;
+   background-color: rgb(173, 133, 112);
+    
+  
+
+}
+
+
+#submit
+{
+    width:70px;
+    height: 30px;
+    background-color: rgb(193, 192, 158);
+    text-align: center;
+  
+
+}
+form
+{
+
+   
+    background-color: rgb(75, 175, 202);
+    padding: 20px;
+    height: 300;
+    width:650px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+body{
+    align-items: center;
+}
